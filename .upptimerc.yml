@@ -13,6 +13,10 @@ sites:
     url: https://specify.kokono.cloud/
   - name: kokono lite
     url: https://app.kokono.cloud/
+  - name: cv maker App
+    url: https://cvapp.kokono.cloud/
+  - name: cv maker landing
+    url: https://cv.kokono.cloud/
   - name: chintaiKing
     url: http://king.kokono.cloud/
   - name: interio
