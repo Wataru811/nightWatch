@@ -7,10 +7,21 @@ sites:
     url: https://urlbank.vpress.asia/
   - name: timeStamp
     url: https://tsv2.interio-inc.com/sign-in
+  - name: www.kokono.cloud
+    url: https://www.kokono.cloud/
+  - name: specify (kokono pro )
+    url: https://specify.kokono.cloud/
+  - name: kokono lite
+    url: https://app.kokono.cloud/
   - name: chintaiKing
     url: http://king.kokono.cloud/
   - name: interio
-    url: hhttps://www.interio-inc.com/
+    url: https://www.interio-inc.com/
+  - name: town.kokono
+    url: https://town.kokono.cloud/
+  - name: town Admin
+    url: https://town-admin.kokono.cloud/
+  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
