@@ -113,19 +113,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.interio-inc.com.ico",
     "slug": "interio",
     "status": "up",
-    "uptime": "3.62%",
-    "uptimeDay": "3.62%",
-    "uptimeWeek": "3.62%",
-    "uptimeMonth": "3.62%",
-    "uptimeYear": "3.62%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 593,
     "timeDay": 593,
     "timeWeek": 593,
     "timeMonth": 593,
     "timeYear": 593,
-    "dailyMinutesDown": {
-      "2026-07-02": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "town.kokono",
