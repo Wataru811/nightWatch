@@ -16,11 +16,11 @@ sites:
     url: https://app.kokono.cloud/
   - name: cv maker App
     url: https://cvapp.kokono.cloud/
-  - name: cv maker landing
+  - name: cv maker landing ( CloudFlare )
     url: https://cv.kokono.cloud/
   - name: chintaiKing
     url: http://king.kokono.cloud/
-  - name: interio
+  - name: interio  ( CloudFlare )
     url: https://www.interio-inc.com/
   - name: town.kokono
     url: https://town.kokono.cloud/
