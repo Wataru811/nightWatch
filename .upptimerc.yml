@@ -33,8 +33,9 @@ sites:
   - name: API - cv-kokono
     url: https://prod-cv-api.kokono.cloud/api/test/health
   - name: API - kokono-lite
-    url: https://api.kokono.cloud/docs
-    
+    url: https://api.kokono.cloud/ping
+  - name: API - kokono-pro
+    url: https://spec-api.interio-inc.com/ping    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
