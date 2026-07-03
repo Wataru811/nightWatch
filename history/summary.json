@@ -239,19 +239,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.kokono.cloud.ico",
     "slug": "api-kokono-lite",
     "status": "up",
-    "uptime": "10.66%",
-    "uptimeDay": "10.66%",
-    "uptimeWeek": "10.66%",
-    "uptimeMonth": "10.66%",
-    "uptimeYear": "10.66%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 465,
     "timeDay": 465,
     "timeWeek": 465,
     "timeMonth": 465,
     "timeYear": 465,
-    "dailyMinutesDown": {
-      "2026-07-03": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API - kokono-pro",
