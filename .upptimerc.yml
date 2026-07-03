@@ -18,10 +18,12 @@ sites:
     url: https://cvapp.kokono.cloud/
   - name: cv maker landing ( CloudFlare )
     url: https://cv.kokono.cloud/
+    # cloudFlare
   - name: chintaiKing
     url: http://king.kokono.cloud/
   - name: interio  ( CloudFlare )
     url: https://www.interio-inc.com/
+    # cloudFlare
   - name: town.kokono
     url: https://town.kokono.cloud/
   - name: town Admin
