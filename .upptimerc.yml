@@ -4,31 +4,37 @@ repo: upptime # The name of this repository
 user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 
 sites:
-  - name: urlBank
+  - name: Web - urlBank
     url: https://urlbank.vpress.asia/
-  - name: timeStamp
+  - name: Web - timeStamp
     url: https://tsv2.interio-inc.com/sign-in
-  - name: www.kokono.cloud
+  - name: Web - www.kokono.cloud
     url: https://www.kokono.cloud/
-  - name: specify (kokono pro )
+  - name: Web - specify (kokono pro )
     url: https://specify.kokono.cloud/
-  - name: kokono lite
+  - name: Web - kokono lite
     url: https://app.kokono.cloud/
-  - name: cv maker App
+  - name: Web - cv maker App
     url: https://cvapp.kokono.cloud/
-  - name: cv maker landing ( CloudFlare )
+  - name: Web - cv maker landing ( CloudFlare )
     url: https://cv.kokono.cloud/
     # cloudFlare
-  - name: chintaiKing
+  - name: Web - chintaiKing
     url: http://king.kokono.cloud/
-  - name: interio  ( CloudFlare )
+  - name: Web - Interio  ( CloudFlare )
     url: https://www.interio-inc.com/
     # cloudFlare
-  - name: town.kokono
+  - name: Web - town.kokono
     url: https://town.kokono.cloud/
-  - name: town Admin
+  - name: Web - town Admin
     url: https://town-admin.kokono.cloud/
-  
+  - name: API - town-kokono
+    url: https://api-town-admin.kokono.cloud/health
+  - name: API - cv-kokono
+    url: https://prod-cv-api.kokono.cloud/api/test/health
+  - name: API - kokono-lite
+    url: https://api.kokono.cloud/docs
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
