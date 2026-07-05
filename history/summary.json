@@ -58,18 +58,20 @@
     "url": "https://specify.kokono.cloud/",
     "icon": "https://icons.duckduckgo.com/ip3/specify.kokono.cloud.ico",
     "slug": "web-specify-kokono-pro",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 98,
     "timeDay": 146,
     "timeWeek": 98,
     "timeMonth": 98,
     "timeYear": 98,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-05": 1
+    }
   },
   {
     "name": "Web - kokono lite",
@@ -94,18 +96,20 @@
     "url": "https://cvapp.kokono.cloud/",
     "icon": "https://icons.duckduckgo.com/ip3/cvapp.kokono.cloud.ico",
     "slug": "web-cv-maker-app",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 98,
     "timeDay": 125,
     "timeWeek": 98,
     "timeMonth": 98,
     "timeYear": 98,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-05": 0
+    }
   },
   {
     "name": "Web - cv maker landing ( CloudFlare )",
@@ -220,18 +224,20 @@
     "url": "https://prod-cv-api.kokono.cloud/api/test/health",
     "icon": "https://icons.duckduckgo.com/ip3/prod-cv-api.kokono.cloud.ico",
     "slug": "api-cv-kokono",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 432,
     "timeDay": 453,
     "timeWeek": 432,
     "timeMonth": 432,
     "timeYear": 432,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-05": 0
+    }
   },
   {
     "name": "API - kokono-lite",
