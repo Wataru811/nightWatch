@@ -5,7 +5,7 @@ user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
 
 sites:
   - name: Web - urlBank
-    url: https://urlbank.vpress.asia/
+    url: https://urlbank.interio-inc.com/
   - name: Web - timeStamp
     url: https://tsv2.interio-inc.com/sign-in
   - name: Web - www.kokono.cloud
@@ -38,6 +38,8 @@ sites:
     url: https://spec-api.interio-inc.com/ping    
   - name: API - king.kokono
     url: https://api-king.kokono.cloud/health
+  - name: API - urlBank
+    url: https://urlbank_api.intterio-inc.com
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
