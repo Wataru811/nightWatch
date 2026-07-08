@@ -303,18 +303,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/urlbank_api.interio-inc.com.ico",
     "slug": "api-url-bank",
     "status": "up",
-    "uptime": "4.12%",
-    "uptimeDay": "4.12%",
-    "uptimeWeek": "4.12%",
-    "uptimeMonth": "4.12%",
-    "uptimeYear": "4.12%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 625,
     "timeDay": 625,
     "timeWeek": 625,
     "timeMonth": 625,
     "timeYear": 625,
-    "dailyMinutesDown": {
-      "2026-07-08": 11
-    }
+    "dailyMinutesDown": {}
   }
 ]
