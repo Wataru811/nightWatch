@@ -39,7 +39,7 @@ sites:
   - name: API - king.kokono
     url: https://api-king.kokono.cloud/health
   - name: API - urlBank
-    url: https://urlbank_api.intterio-inc.com
+    url: https://urlbank_api.intterio-inc.com/health
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
