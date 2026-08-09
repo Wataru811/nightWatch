@@ -42,6 +42,8 @@ sites:
     url: https://api-king.kokono.cloud/health
   - name: API - urlBank
     url: https://urlbank-api.interio-inc.com/health
+  - name: API - gis-p1
+    url: https://api-gisp1.kokono.cloud/health
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
