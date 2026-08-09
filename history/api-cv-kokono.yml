@@ -1,7 +1,7 @@
 url: https://prod-cv-api.kokono.cloud/api/test/health
 status: up
 code: 200
-responseTime: 595
-lastUpdated: 2026-08-08T23:22:20.532Z
+responseTime: 404
+lastUpdated: 2026-08-09T09:09:13.891Z
 startTime: 2026-07-03T14:58:02.008Z
 generator: Upptime <https://github.com/upptime/upptime>
