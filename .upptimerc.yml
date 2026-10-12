@@ -40,8 +40,6 @@ sites:
     url: https://spec-api.interio-inc.com/ping    
   - name: API - king.kokono
     url: https://api-king.kokono.cloud/health
-  - name: API - urlBank
-    url: https://urlbank-api.interio-inc.com/health
   - name: API - gis-p1
     url: https://api-gisp1.kokono.cloud/health
     
