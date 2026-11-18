@@ -1,7 +1,7 @@
 url: https://api-king.kokono.cloud/health
-status: up
-code: 200
-responseTime: 387
-lastUpdated: 2026-11-18T03:59:18.963Z
+status: down
+code: 521
+responseTime: 172
+lastUpdated: 2026-11-18T23:04:29.834Z
 startTime: 2026-07-03T15:04:25.693Z
 generator: Upptime <https://github.com/upptime/upptime>
