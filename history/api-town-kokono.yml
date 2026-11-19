@@ -1,7 +1,7 @@
 url: https://api-town-admin.kokono.cloud/health
 status: down
-code: 521
-responseTime: 167
-lastUpdated: 2026-11-18T23:03:59.310Z
+code: 502
+responseTime: 528
+lastUpdated: 2026-11-19T03:56:34.689Z
 startTime: 2026-07-03T14:58:01.350Z
 generator: Upptime <https://github.com/upptime/upptime>
